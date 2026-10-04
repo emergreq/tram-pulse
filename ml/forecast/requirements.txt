@@ -1,0 +1,4 @@
+# Tested with Python 3.12; only the boosting candidates require these packages.
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1

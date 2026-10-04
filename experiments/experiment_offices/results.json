@@ -1,0 +1,12 @@
+{
+  "title": "Офисы и публичные часы работы",
+  "local_period": "2025-09-01/2025-10-31",
+  "local_baseline": 0.9063526771493093,
+  "local_final": 0.9063526771493093,
+  "local_delta": 0.0,
+  "platform_baseline": 0.88092,
+  "platform_score_user_reported": null,
+  "status": "Не принят",
+  "limitations": "Ни один маршрут не прошёл критерий. Итоговый CSV идентичен базе 0,88092; нового платформенного измерения нет.",
+  "notebook_sha256": "5d9d35110762db00d29be887981211507350208c696ab7da7673a841eae0063b"
+}

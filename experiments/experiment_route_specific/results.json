@@ -1,0 +1,12 @@
+{
+  "title": "Помаршрутная базовая модель",
+  "local_period": "2025-09-01/2025-10-31",
+  "local_baseline": null,
+  "local_final": 0.8937443240536405,
+  "local_delta": null,
+  "platform_baseline": null,
+  "platform_score_user_reported": 0.877,
+  "status": "Принят",
+  "limitations": "Платформенный score 0,877 сообщён пользователем. Параметры выбирались на сентябре–октябре: оценка исследовательская.",
+  "notebook_sha256": "2406092b2213de794f24d706bf7f58cb66e52d20ef5bade54e58d87b21a599af"
+}

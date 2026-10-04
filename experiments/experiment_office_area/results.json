@@ -1,0 +1,12 @@
+{
+  "title": "Площадь офисных зданий",
+  "local_period": "2025-09-01/2025-10-31",
+  "local_baseline": 0.9063526771493093,
+  "local_final": 0.9063526771493093,
+  "local_delta": 0.0,
+  "platform_baseline": 0.88092,
+  "platform_score_user_reported": null,
+  "status": "Не принят",
+  "limitations": "Кандидаты отклонены. Итоговый CSV идентичен базе 0,88092. Число сотрудников/посетителей не выдумывалось.",
+  "notebook_sha256": "ff64ce160259b8a4f07b7b0a718e3f5c22f740c9e5776b29961691f1c617b0af"
+}
